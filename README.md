@@ -7,8 +7,6 @@
 
 A Verilog implementation of a 6-bit digital comparator supporting both **signed** and **unsigned** comparison modes. The design uses a modular architecture — registers, comparator logic, and a MUX — verified against a behavioral reference model across 8,000 randomized test cases.
 
-> **Course:** Advanced Digital Design (ENCS3310) — Electrical & Computer Engineering, Birzeit University
-> **Instructor:** Elias Khalil · **Date:** December 2024
 
 ---
 
